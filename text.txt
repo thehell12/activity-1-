@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>First Semester Subjects</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+            color: #000;
+        }
+
+        h1 {
+            font-size: 48px;
+            font-weight: bold;
+        }
+
+        h2 {
+            font-size: 32px;
+            margin-top: 40px;
+        }
+
+        .section {
+            margin-left: 20px;
+        }
+
+        ul, ol {
+            font-size: 22px;
+        }
+
+        span {
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- Title: Year Level and Strand -->
+    <h1>Grade 12 – ICT Strand<br>1st Semester Subjects</h1>
+
+    <!-- Core Subjects -->
+    <h2>Core Subjects</h2>
+    <div class="section">
+        <ul>
+            <li><span>Oral Communication</span></li>
+            <li><span>General Mathematics</span></li>
+        </ul>
+    </div>
+
+    <!-- Contextualized Subjects -->
+    <h2>Contextualized</h2>
+    <div class="section">
+        <ol>
+            <li><span>Empowerment Technology</span></li>
+            <li><span>Research in Daily Life</span></li>
+        </ol>
+    </div>
+
+    <!-- Specialized Subjects -->
+    <h2>Specialized</h2>
+    <div class="section">
+        <ol>
+            <li><span>Computer Programming</span></li>
+            <li><span>Web Development</span></li>
+        </ol>
+    </div>
+
+</body>
+</html>
