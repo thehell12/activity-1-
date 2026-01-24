@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>12 ICT - Arnos</title>
+    <title>Second Semester Subjects</title>
 
     <style>
         body {
@@ -13,12 +13,12 @@
         }
 
         h1 {
-            font-size: 48px;
+            font-size: 35px;
             font-weight: bold;
         }
 
         h2 {
-            font-size: 32px;
+            font-size: 25px;
             margin-top: 40px;
         }
 
@@ -37,34 +37,31 @@
 </head>
 <body>
 
-    <!-- Title: Year Level and Strand -->
-    <h1>Grade 12 – ICT Strand<br>1st Semester Subjects</h1>
+    <h1>Grade 12 – ICT Arnos<br>1st Semester Subjects</h1>
 
     <!-- Core Subjects -->
     <h2>Core Subjects</h2>
     <div class="section">
         <ul>
-            <li><span>Oral Communication</span></li>
-            <li><span>General Mathematics</span></li>
+            <li><span>Media Information Literacy</span></li>
+            <li><span>Physical Education</span></li>
         </ul>
     </div>
 
-    <!-- Contextualized Subjects -->
     <h2>Contextualized</h2>
     <div class="section">
-        <ol>
+        <ul>
             <li><span>Empowerment Technology</span></li>
-            <li><span>Research in Daily Life</span></li>
-        </ol>
+            <li><span>Research Project</span></li>
+        </ul>
     </div>
 
-    <!-- Specialized Subjects -->
     <h2>Specialized</h2>
     <div class="section">
-        <ol>
+        <ul>
             <li><span>Computer Programming</span></li>
-            <li><span>Web Development</span></li>
-        </ol>
+            <li><span>Animation</span></li>
+        </ul>
     </div>
 
 </body>
